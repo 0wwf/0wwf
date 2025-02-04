@@ -55,7 +55,20 @@
 [![Bahasa Paling Banyak Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=0wwf&layout=compact&theme=radical)](https://github.com/0wwf)
 
 ---
+# Hi there 👋
 
+## 📊 GitHub Stats
+
+<!-- Statistik Umum -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME-ANDA&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Bahasa Paling Banyak Digunakan -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME-ANDA&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Streak Kontribusi -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=USERNAME-ANDA&theme=dark)](https://git.io/streak-stats)
+
+---
 ### 📫 Hubungi Saya
 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:email-anda@example.com)
